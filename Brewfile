@@ -1,4 +1,5 @@
 brew 'jq'
+brew 'archey'
 brew 'tmux'
 brew 'zsh-completions'
 brew 'findutils'
